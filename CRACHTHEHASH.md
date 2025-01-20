@@ -46,17 +46,17 @@ Head to the terminal and type the following code:
 
 ```hashcat -a0 -m3200 hashedpass.txt rockyou.txt```
 
-Here:
-+ a stands for “attack” which is followed by a “0” which means that its going to be a dictionary attack.
-+ m stands for “attack-mode” which is followed by 3200 means that the hash type is bcrypt(You can see the attack mode from the hash formats list provided above.
-On hitting enter, you will sadly be prompted to wait for a while and BOOM!!!!!!!…The password is here!!!!
+>Here:
+> + a stands for “attack” which is followed by a “0” which means that its going to be a dictionary attack.
+> + m stands for “attack-mode” which is followed by 3200 means that the hash type is bcrypt(You can see the attack mode from the hash formats list provided above.
+> On hitting enter, you will sadly be prompted to wait for a while and BOOM!!!!!!!…The password is here!!!!
 
 ### Answer-1.4) bleh
 
 
 ### Hash-1.5) 279412f945939ba78ce0758d3fd83daa
 
-To crack this hash, you can copy this and then, paste it on the crackstation. Clearing up the reCAPTCHA, hit on “crack hashes” and it will provide the answer in a table format; in the “result” section is our required answer.
+> To crack this hash, you can copy this and then, paste it on the crackstation. Clearing up the reCAPTCHA, hit on “crack hashes” and it will provide the answer in a table format; in the “result” section is our required answer.
 
 ### Answer-1.5) Eternity22
 
@@ -67,7 +67,8 @@ To crack this hash, you can copy this and then, paste it on the crackstation. Cl
 You first need to look up for the hash type in the above linked hash analyzer and on hitting the “Submit and Continue” button, you will find that the hash type is “SHA2–256”. Hence, open the terminal and hit the below command:
 
 ```hashcat -a0 -m1400 hashedpass.txt rockyou.txt```
-You can check the attack mode from the above linked “Hash Formats List” and from there, you will find out that the required is “1400”.
+
+> You can check the attack mode from the above linked “Hash Formats List” and from there, you will find out that the required is “1400”.
 On hitting enter, and after waiting up for some time, you get your answer!
 
 ### Answer-2.1) paule
@@ -78,7 +79,8 @@ On hitting enter, and after waiting up for some time, you get your answer!
 You first need to look up for the hash type in the above linked hash analyzer and on hitting the “Submit and Continue” button, you will find that the hash type is “NTLM”. Hence, open the terminal and hit the below command:
 
 ```hashcat -a0 -m1000 hashedpass.txt rockyou.txt```
-You can check the attack mode from the above linked “Hash Formats List” and from there, you will find out that the required is “1000”.
+
+> You can check the attack mode from the above linked “Hash Formats List” and from there, you will find out that the required is “1000”.
 On hitting enter, and after waiting up for some time, you get your answer!
 
 ### Answer-2.2) n63umy8lkf4i
@@ -86,10 +88,11 @@ On hitting enter, and after waiting up for some time, you get your answer!
 
 ### Hash2.3)$6$aReallyHardSalt$6WKUTqzq.UQQmrm0p/T7MPpMbGNnzXPMAXi4bJMl9be.cfi3/qxIf.hsGpS41BqMhSrHVXgMpdjS6xeKZAs02with Salt: aReallyHardSalt
 
-You first need to look up for the hash type in the above linked hash analyzer and on hitting the “Submit and Continue” button, you will find that the hash type is “sha512crypt $6$, SHA512 (Unix) 2”. Hence, open the terminal and hit the below command:
+> You first need to look up for the hash type in the above linked hash analyzer and on hitting the “Submit and Continue” button, you will find that the hash type is “sha512crypt $6$, SHA512 (Unix) 2”. Hence, open the terminal and hit the below command:
 
 ```hashcat -a0 -m1800 hashedpass.txt rockyou.txt```
-You can check the attack mode from the above linked “Hash Formats List” and from there, you will find out that the required is “1800”.
+
+> You can check the attack mode from the above linked “Hash Formats List” and from there, you will find out that the required is “1800”.
 On hitting enter, and after waiting up for some time, you get your answer!
 
 ### Answer-2.3) waka99
@@ -100,7 +103,8 @@ On hitting enter, and after waiting up for some time, you get your answer!
 > You first need to look up for the hash type in the above linked hash analyzer and on hitting the “Submit and Continue” button, you will find that the hash type is “SHA-1”. But, since the hash is salted, one cannot use “100” as the attack-mode, so, one needs to try the salted passwords version of hash type. On trying, you will find out that the required attack mode will be “160”. Hence, the required command will be:
 
 ```hashcat -a0 -m160 hashedpass.txt rockyou.txt```
-On hitting enter, and after waiting up for some time, you get your answer!
+
+> On hitting enter, and after waiting up for some time, you get your answer!
 
 ### Answer-2.4) 481616481616
 
