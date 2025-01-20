@@ -18,25 +18,23 @@ You are advised to copy and paste all the hashed passwords into a text file and 
 ## Level-1{Use Online tools}
 
 
-### Hash-1.1) 48bb6e862e54f2a795ffc4e541caed4d
+**Hash-1.1) 48bb6e862e54f2a795ffc4e541caed4d**
 
 **Solution-1.1)**- To crack this hash, you can copy this and then, paste it on the crackstation. On clearing up the reCAPTCHA, hit on “crack hashes” and it will provide the answer.
 
-### Answer-1.1) easy
+**Answer-1.1) easy**
 
 
-### Hash-1.2) CBFDAC6008F9CAB4083784CBD1874F76618D2A97
+**Hash-1.2) CBFDAC6008F9CAB4083784CBD1874F76618D2A97**
 
-### Solution-1.2) 
-To crack this hash the above process follows same, you can copy this and then, paste it on the crackstation. Clearing up the reCAPTCHA, hit on “crack hashes” and it will provide the answer in a table format; in the “result” section is our required answer.
+**Solution-1.2)**- To crack this hash the above process follows same, you can copy this and then, paste it on the crackstation. Clearing up the reCAPTCHA, hit on “crack hashes” and it will provide the answer in a table format; in the “result” section is our required answer.
 
-### Answer-1.2) password123
+**Answer-1.2) password123**
 
 
-### Hash1.3)1C8BFE8F801D79745C4631D09FFF36C82AA37FC4CCE4FC946683D7B336B63032
+**Hash1.3)1C8BFE8F801D79745C4631D09FFF36C82AA37FC4CCE4FC946683D7B336B63032**
 
-### Solution-1.3) 
-To crack this hash the above process follows same, you can copy this and then, paste it on the crackstation. Clearing up the reCAPTCHA, hit on “crack hashes” and it will provide the answer in a table format; in the “result” section is our required answer.
+**Solution-1.3)**- To crack this hash the above process follows same, you can copy this and then, paste it on the crackstation. Clearing up the reCAPTCHA, hit on “crack hashes” and it will provide the answer in a table format; in the “result” section is our required answer.
 
-### Answer-1.3) letmein
+**Answer-1.3) letmein**
 
