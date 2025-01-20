@@ -70,7 +70,7 @@ Head to the terminal and type the following code:
 > ```hashcat -a0 -m1400 hashedpass.txt rockyou.txt```
 
 > You can check the attack mode from the above linked “Hash Formats List” and from there, you will find out that the required is “1400”.
-On hitting enter, and after waiting up for some time, you get your answer!
+> On hitting enter, and after waiting up for some time, you get your answer!
 
 ### Answer-2.1) paule
 
@@ -82,7 +82,7 @@ You first need to look up for the hash type in the above linked hash analyzer an
 > ```hashcat -a0 -m1000 hashedpass.txt rockyou.txt```
 
 > You can check the attack mode from the above linked “Hash Formats List” and from there, you will find out that the required is “1000”.
-On hitting enter, and after waiting up for some time, you get your answer!
+> On hitting enter, and after waiting up for some time, you get your answer!
 
 ### Answer-2.2) n63umy8lkf4i
 
@@ -94,7 +94,7 @@ On hitting enter, and after waiting up for some time, you get your answer!
 > ```hashcat -a0 -m1800 hashedpass.txt rockyou.txt```
 
 > You can check the attack mode from the above linked “Hash Formats List” and from there, you will find out that the required is “1800”.
-On hitting enter, and after waiting up for some time, you get your answer!
+> On hitting enter, and after waiting up for some time, you get your answer!
 
 ### Answer-2.3) waka99
 
