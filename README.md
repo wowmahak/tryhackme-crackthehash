@@ -20,8 +20,7 @@ You are advised to copy and paste all the hashed passwords into a text file and 
 
 ### Hash-1.1) 48bb6e862e54f2a795ffc4e541caed4d
 
-### Solution-1.1) 
-To crack this hash, you can copy this and then, paste it on the crackstation. On clearing up the reCAPTCHA, hit on “crack hashes” and it will provide the answer.
+**Solution-1.1)**- To crack this hash, you can copy this and then, paste it on the crackstation. On clearing up the reCAPTCHA, hit on “crack hashes” and it will provide the answer.
 
 ### Answer-1.1) easy
 
